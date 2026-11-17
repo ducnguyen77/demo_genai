@@ -13,7 +13,7 @@ git branch --show-current
 git add .
 
 # Commit changes
-git commit -m "Adding project.toml"
+git commit -m "Test first Machine Learning commit"
 
 # Push to remote dev branch
 git push origin dev
